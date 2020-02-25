@@ -1,4 +1,4 @@
-# re-imaging wcc fixIt
+# imagining fixit
 
 The intention of this project is to redesign Wellington City Council's app – FixIt.
 
